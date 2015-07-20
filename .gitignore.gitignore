@@ -1,0 +1,10 @@
+env
+venv
+*.pyc
+__pycache__
+*.DS_Store
+.coverage
+htmlcov
+cover
+ssh_key.txt
+ssh_key.txt.pub
